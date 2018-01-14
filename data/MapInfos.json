@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Dragon de fuego","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Pueblo pesquero","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":1054.8},
+{"id":3,"expanded":true,"name":"Posada (Piso 1)","order":3,"parentId":2,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":4,"expanded":false,"name":"Posada (Piso 2)","order":4,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":5,"expanded":false,"name":"Tienda de objetos","order":8,"parentId":2,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":6,"expanded":false,"name":"Posada (Subterraneo)","order":5,"parentId":3,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":7,"expanded":false,"name":"Taberna","order":6,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Tienda de armas","order":7,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"Tienda de armas","order":9,"parentId":2,"scrollX":832,"scrollY":640}
+]
